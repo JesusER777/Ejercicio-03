@@ -1,0 +1,39 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fondo {
+    background-color: cornsilk;
+}
+
+.contenedor {
+    background-color: aqua;
+    height: auto;
+    width: 50%;
+    padding: 1.5px;
+}
+#titulo {
+    text-align: center;
+}
+
+.lista {
+    height: 110px;
+    padding: 8px 8px 8px 40px;
+    margin: 10px;
+    background-color: rgb(217, 217, 231);
+}
+
+.lista-2 {
+    height: 110px;
+    padding: 8px 8px 8px 40px;
+    margin: 10px;
+    background-color: rgb(217, 217, 231);
+}
+
+#elemenoto-1 {
+    color: brown;
+}
+
+#elemento-1 {
+    color: brown;
+}
